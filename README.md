@@ -6,8 +6,6 @@
 
 <div align="center">
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=aleemont1&theme=tokyonight&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-  
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aleemont1&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleemont1&hide=html,css,xslt,makefile&langs_count=30&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
