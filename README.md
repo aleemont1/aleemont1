@@ -6,8 +6,6 @@
 
 <div align="center">
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aleemont1&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  [![My user statistics](images/userstats.svg)](https://github.com/cicirello/user-statistician)  
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleemont1&hide=html,css,xslt,makefile&langs_count=30&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 </div>
