@@ -19,27 +19,29 @@
 I specialize in **firmware development**, **telemetry protocols**, and **real-time systems**. Here are some highlights from my recent work:
 
 ### 🚀 **Aurora Rocketry Team** | *Project Manager & Lead Avionics*
-Leading a team of 7 to develop the avionics for a sounding rocket.
+Leading a team to develop the avionics for a sounding rocket.
 * **Flight Computer:** Designed an **ESP32-based** system running **FreeRTOS** for real-time task scheduling.
-* **GNC:** Implemented an **Extended Kalman Filter (EKF)** for precise apogee detection and state estimation.
 * **Telemetry:** Integrated a long-range communication system coordinating with a custom Ground Station.
 
 ### 📡 **LoRa Research** | *Undergraduate Researcher @ Unibo*
 Developing reliable telemetry protocols under the supervision of Prof. Andrea Piroddi.
 * **Protocol Design:** Engineered a segmented-packet protocol over LoRa to maximize throughput.
 * **Results:** Achieved **95% packet recovery at 500m** with a data rate of ~640 Bytes/s in field tests.
-* **Paper:** Co-authoring a research paper on LoRa payload segmentation (Target: IEEE 2025).
+* **Paper:** Authoring a research paper on LoRa payload segmentation (Target: IEEE 2026).
 
 ---
 
 ## 🛠️ Technical Arsenal
+<div align='center'>
 
-| Domain | Technologies & Tools |
-| :--- | :--- |
-| **Embedded & IoT** | C, C++, FreeRTOS, ESP32, Arduino, LoRa, MQTT, Sensor Fusion |
-| **Backend & Core** | Python, .NET 8.0 (C#), Java, NuGet |
-| **DevOps & SysAdmin** | Docker, Kubernetes, GitHub Actions, Linux Server, Active Directory |
-| **Parallel Computing** | CUDA, OpenMP, OpenMPI, SIMD Optimization |
+  | Domain | Technologies & Tools |
+  | :--- | :--- |
+  | **Embedded & IoT** | C, C++, FreeRTOS, ESP32, Arduino, LoRa, MQTT, Sensor Fusion |
+  | **Backend & Core** | Python, .NET 8.0 (C#), Java, NuGet |
+  | **DevOps & SysAdmin** | Docker, Kubernetes, GitHub Actions, Linux Server, Active Directory |
+  | **Parallel Computing** | CUDA, OpenMP, OpenMPI, SIMD Optimization |
+
+</div>
 
 ---
 
@@ -48,7 +50,7 @@ Developing reliable telemetry protocols under the supervision of Prof. Andrea Pi
   ## 📊 GitHub Analytics
   
   <p>
-    <img src="images/userstats.svg" alt="Alessandro's GitHub Stats" width="80%">
+    <img src="images/userstats.svg" alt="Alessandro's GitHub Stats" width="40%">
   </p>
 
 </div>
