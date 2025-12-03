@@ -1,13 +1,54 @@
-- MSc in Computer Science and Engineering at "Alma Mater Studiorum - University of Bologna".
-- I like Embedded Systems, backend programming, systems integration, virtualization and tinkering with parallel programming.
-- I’m currently studying Embedded Systems, Software Engineering, Web Technologies and Parallel Programming.
-- You can reach out to me here: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ale-mont/) 📬[Email](mailto:alessandro.monticelli@live.it)
-- My CV is [here](https://aleemont1.github.io/one-page-cv/resume.pdf)
-
 <div align="center">
   
-  [![My user statistics](images/languages.svg)](https://github.com/cicirello/user-statistician)  
-  [![My user statistics](images/contribs.svg)](https://github.com/cicirello/user-statistician)  
-  [![My user statistics](images/repos.svg)](https://github.com/cicirello/user-statistician)  
+  # Hi there, I'm Alessandro! 👋
+
+  ### 🚀 Embedded Software Engineer | Computer Engineering MSc
   
+  _Turning hardware constraints into software possibilities. Passionate about Rocketry, RTOS, and Mission-Critical Systems._
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alessandro_Monticelli-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ale-mont/)
+  [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alessandro.monticelli@live.com)
+  [![CV](https://img.shields.io/badge/Resume-PDF-FF5500?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://aleemont1.github.io/one-page-cv/resume.pdf)
+
+</div>
+
+<br />
+
+## 🔬 What I'm Working On
+
+I specialize in **firmware development**, **telemetry protocols**, and **real-time systems**. Here are some highlights from my recent work:
+
+### 🚀 **Aurora Rocketry Team** | *Project Manager & Lead Avionics*
+Leading a team of 7 to develop the avionics for a sounding rocket.
+* **Flight Computer:** Designed an **ESP32-based** system running **FreeRTOS** for real-time task scheduling.
+* **GNC:** Implemented an **Extended Kalman Filter (EKF)** for precise apogee detection and state estimation.
+* **Telemetry:** Integrated a long-range communication system coordinating with a custom Ground Station.
+
+### 📡 **LoRa Research** | *Undergraduate Researcher @ Unibo*
+Developing reliable telemetry protocols under the supervision of Prof. Andrea Piroddi.
+* **Protocol Design:** Engineered a segmented-packet protocol over LoRa to maximize throughput.
+* **Results:** Achieved **95% packet recovery at 500m** with a data rate of ~640 Bytes/s in field tests.
+* **Paper:** Co-authoring a research paper on LoRa payload segmentation (Target: IEEE 2025).
+
+---
+
+## 🛠️ Technical Arsenal
+
+| Domain | Technologies & Tools |
+| :--- | :--- |
+| **Embedded & IoT** | C, C++, FreeRTOS, ESP32, Arduino, LoRa, MQTT, Sensor Fusion |
+| **Backend & Core** | Python, .NET 8.0 (C#), Java, NuGet |
+| **DevOps & SysAdmin** | Docker, Kubernetes, GitHub Actions, Linux Server, Active Directory |
+| **Parallel Computing** | CUDA, OpenMP, OpenMPI, SIMD Optimization |
+
+---
+
+<div align="center">
+
+  ## 📊 GitHub Analytics
+  
+  <p>
+    <img src="images/userstats.svg" alt="Alessandro's GitHub Stats" width="80%">
+  </p>
+
 </div>
