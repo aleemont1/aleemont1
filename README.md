@@ -4,7 +4,7 @@
 
   ### 🚀 Embedded Software Engineer | Computer Engineering MSc
   
-  _Turning hardware constraints into software possibilities. Passionate about Rocketry, RTOS, and Mission-Critical Systems._
+  _Turning hardware constraints into software possibilities. Passionate about Rocketry, Embedded Systems, low-level and back-end programming._
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alessandro_Monticelli-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ale-mont/)
   [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alessandro.monticelli@live.com)
