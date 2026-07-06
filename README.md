@@ -63,7 +63,7 @@ Developing reliable telemetry protocols under the supervision of Prof. Andrea Pi
   
   <p align="center">
     <img src="images/userstats.svg" alt="Alessandro's GitHub Stats" height="195">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleemont1&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117" alt="Top Languages" height="195">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aleemont1&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117" alt="Top Languages" height="195">
   </p>
 
   ### 🐍 Contribution Activity
