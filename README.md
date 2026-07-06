@@ -2,7 +2,7 @@
   
   # Hi there, I'm Alessandro! 👋
 
-  ### 🚀 Embedded Software Engineer | Computer Engineering MSc
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Embedded+Software+Engineer;Computer+Engineering+MSc;Building+Hardware+%26+Software+Systems" alt="Typing SVG" /></a>
   
   _Turning hardware constraints into software possibilities. Passionate about Rocketry, Embedded Systems, low-level and back-end programming._
 
@@ -34,12 +34,24 @@ Developing reliable telemetry protocols under the supervision of Prof. Andrea Pi
 ## 🛠️ Technical Arsenal
 <div align='center'>
 
-  | Domain | Technologies & Tools |
-  | :--- | :--- |
-  | **Embedded & IoT** | C, C++, FreeRTOS, ESP32, Arduino, LoRa, MQTT, Sensor Fusion |
-  | **Backend & Core** | Python, .NET 8.0 (C#), Java, NuGet |
-  | **DevOps & SysAdmin** | Docker, Kubernetes, GitHub Actions, Linux Server, Active Directory |
-  | **Parallel Computing** | CUDA, OpenMP, OpenMPI, SIMD Optimization |
+  ### ⚡ Embedded & IoT
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,arduino,raspberrypi,idea&theme=dark" />
+  </a>
+  
+  <br>
+
+  ### 💻 Backend & Core
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cs,dotnet,java&theme=dark" />
+  </a>
+  
+  <br>
+
+  ### 🐳 DevOps & Parallel Computing
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,linux,bash&theme=dark" />
+  </a>
 
 </div>
 
@@ -49,8 +61,16 @@ Developing reliable telemetry protocols under the supervision of Prof. Andrea Pi
 
   ## 📊 GitHub Analytics
   
-  <p>
-    <img src="images/userstats.svg" alt="Alessandro's GitHub Stats" width="40%">
+  <p align="center">
+    <img src="images/userstats.svg" alt="Alessandro's GitHub Stats" height="195">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleemont1&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117" alt="Top Languages" height="195">
   </p>
+
+  ### 🐍 Contribution Activity
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aleemont1/aleemont1/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aleemont1/aleemont1/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aleemont1/aleemont1/output/github-contribution-grid-snake.svg">
+  </picture>
 
 </div>
