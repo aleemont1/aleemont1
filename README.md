@@ -2,11 +2,11 @@
 
 Software engineer. I like rockets, embedded systems and low-level code.
 
-I write at **[aleemont.dev](https://aleemont.dev)**: work, projects, things I learn.
+I write at **[blog.aleemont.dev](https://blog.aleemont.dev)**: work, projects, things I learn.
 
 ## Now
 
-Software engineer at a small software house, building enterprise software for agri-food cooperatives. Outside work: flight computers for amateur rockets, and re-learning C the old-fashioned way.
+Software engineer at a small software house, building enterprise software for agri-food cooperatives. Outside work: flight computers for amateur rockets.
 
 ## Selected work
 
@@ -15,12 +15,10 @@ Software engineer at a small software house, building enterprise software for ag
 
 ## Stack
 
-| | |
-|---|---|
-| Embedded | C, C++, Arduino, Raspberry Pi |
-| Back end | Python, C#, .NET, Java |
-| Infra | Docker, Kubernetes, GitHub Actions, Linux, Bash |
+- **Embedded:** C, C++, Arduino, Raspberry Pi
+- **Back end:** Python, C#, .NET, Java
+- **Infra:** Docker, Kubernetes, GitHub Actions, Linux, Bash
 
 ## Elsewhere
 
-[Blog](https://aleemont.dev) · [LinkedIn](https://www.linkedin.com/in/ale-mont/) · [Resume](https://aleemont1.github.io/curriculum-vitae)
+[Blog](https://blog.aleemont.dev) · [LinkedIn](https://www.linkedin.com/in/ale-mont/) · [Resume](https://aleemont1.github.io/curriculum-vitae)
